@@ -1,0 +1,1 @@
+Basic Movie Applicaiton using Nodejs MongoDB and JWT Authentication containing Login, SignUP and protected access to applicaiton features.
